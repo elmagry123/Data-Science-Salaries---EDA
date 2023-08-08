@@ -11,3 +11,9 @@
 ### 9.remote_ratio: The overall amount of work done remotely.
 ### 10.company_location: The country of the employer's main office or contracting branch.
 ### 11.company_size: The median number of people that worked for the company during the year.
+
+# Steps:
+## (1) Data Wrangling.
+## (2) Data Cleaning.
+## (3) Exploraty Data Analysis.
+## (4) Dashboard.
