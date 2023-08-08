@@ -17,3 +17,8 @@
 ## (2) Data Cleaning.
 ## (3) Exploraty Data Analysis.
 ## (4) Dashboard.
+
+
+ # Tools:
+## -python (pandas- numpy - seaboarn - matplotlib)
+## -Power bi ( innteractive Dashboard)
