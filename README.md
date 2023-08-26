@@ -24,5 +24,6 @@
 ## -Power bi ( innteractive Dashboard)
 
 # Final Dashboard:
+![Screenshot (1182)](https://github.com/elmagry123/Data-Science-Salaries---EDA/assets/124198691/e05787cc-3acb-44b7-99a6-fe7447137693)
 
 
